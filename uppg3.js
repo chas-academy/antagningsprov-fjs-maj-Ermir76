@@ -8,7 +8,7 @@ function uppg3() {
     const y = 10;
     const result = x + y;
      // skriv ut summan av a och b i konsolen
-    console.log(`The sum of ${x} and ${y} is ${result}.`);
+    console.log(result);
 }
 
 uppg3(); 
